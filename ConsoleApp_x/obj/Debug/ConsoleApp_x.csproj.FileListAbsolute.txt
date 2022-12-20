@@ -1,0 +1,8 @@
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\bin\Debug\ConsoleApp_x.exe.config
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\bin\Debug\ConsoleApp_x.exe
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\bin\Debug\ConsoleApp_x.pdb
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\obj\Debug\ConsoleApp_x.csproj.AssemblyReference.cache
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\obj\Debug\ConsoleApp_x.csproj.SuggestedBindingRedirects.cache
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\obj\Debug\ConsoleApp_x.csproj.CoreCompileInputs.cache
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\obj\Debug\ConsoleApp_x.exe
+C:\Users\NEW LAP\OneDrive\Desktop\ConsoleApp_x\ConsoleApp_x\obj\Debug\ConsoleApp_x.pdb
